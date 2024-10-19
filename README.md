@@ -18,8 +18,9 @@ Avant de commencer, on doit s'assurer bien d'avoir creer
 
 ## Fonctionnalités
 
-- Ajouter, modifier et supprimer des salles
-- Ajouter, modifier et supprimer des machines
+CRUD (Create, Read, Update, Delete) pour machines.
+CRUD pour salle.
+Searching for available machines in each salle
 
   ## Affichage
   ![image](https://github.com/user-attachments/assets/bf3d1f23-9ea2-4f35-b750-705a011b7c4e)
