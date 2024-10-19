@@ -23,9 +23,13 @@ Avant de commencer, on doit s'assurer bien d'avoir creer
 
   ## Affichage
   ![image](https://github.com/user-attachments/assets/bf3d1f23-9ea2-4f35-b750-705a011b7c4e)
-  
+
+
+  ## Salle
   ![image](https://github.com/user-attachments/assets/b33910d6-c56d-4de4-ab25-a7cc056abcb5)
+
   
+  ## machine
   ![image](https://github.com/user-attachments/assets/3522b3a8-d11d-42c3-9d59-8892cd7346bf)
 
 
